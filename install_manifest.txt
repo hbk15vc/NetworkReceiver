@@ -1,0 +1,3 @@
+/usr/local/include/vtz_network_receiver/network_receiver.h
+/usr/local/lib/libvtz_network_receiver.so
+/usr/local/lib/pkgconfig/vtz_network_receiver.pc

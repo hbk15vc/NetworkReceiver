@@ -1,0 +1,1 @@
+g++ -o test main.cpp  -I/usr/local/include/vtz_bit_manipulator -I/usr/local/include/vtz_network_sender -I/usr/local/include/vtz_network_receiver -L/usr/local/lib -lvtz_bit_manipulator -lvtz_logger -lvtz_network_sender -lvtz_network_receiver

@@ -1,0 +1,14 @@
+# Package Information for pkg-config
+
+prefix=
+exec_prefix=/usr
+libdir=
+includedir=
+
+Name: vtz_network_receiver
+Description: 
+Version: 
+Requires:  
+Libs: -L${libdir} -lvtz_network_receiver
+Cflags: -I${includedir}
+
